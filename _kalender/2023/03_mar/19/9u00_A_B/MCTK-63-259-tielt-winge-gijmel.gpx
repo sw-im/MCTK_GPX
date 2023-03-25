@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx creator="StravaGPX" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" xmlns="http://www.topografix.com/GPX/1/1">
  <metadata>
-  <name>MCTK-63-259-tielt-winge-gijmel</name>
-  <desc>Ter hoogte van langdorp zit er een korte strook kiezeltjes, deze zou goed bereidbaar zijn met de koersfiets.  </desc>
+  <name>MCTK-63-259-Tielt-Winge-Gijmel</name>
+  <desc>Shortcut 
+Ref: MCTK-86-388-grasbos-poggio-diest.gpx
+
+Ter hoogte van langdorp zit er een korte strook kiezeltjes, deze zou goed berijdbaar zijn met de koersfiets.  </desc>
   <author>
    <name>Wim Van den Daele</name>
    <link href="https://www.strava.com/athletes/14309968"/>
@@ -14,8 +17,11 @@
   <link href="https://www.strava.com/routes/3072193387319918658"/>
  </metadata>
  <trk>
-  <name>MCTK-63-259-tielt-winge-gijmel</name>
-  <desc>Ter hoogte van langdorp zit er een korte strook kiezeltjes, deze zou goed bereidbaar zijn met de koersfiets.  </desc>
+  <name>MCTK-63-259-Tielt-Winge-Gijmel</name>
+  <desc>Shortcut 
+Ref: MCTK-86-388-grasbos-poggio-diest.gpx
+
+Ter hoogte van langdorp zit er een korte strook kiezeltjes, deze zou goed berijdbaar zijn met de koersfiets.  </desc>
   <link href="https://www.strava.com/routes/3072193387319918658"/>
   <type>Ride</type>
   <trkseg>

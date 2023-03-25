@@ -5,7 +5,7 @@ De folderstructuur van MCTK's gpx-versiebeheersysteem is ontworpen om een overzi
 - `_kalender`: bevat de planning van de ritten met  jaar/maand/dag/vertrekuur_groep/gpx-file(s) : 
     - 2023/03_mar/26/
         - 9u00_A_B
-            - MCTK-63-259-tielt-winge-gijmel.gpx
+            - MCTK-70-99-Herentals-Grobbendonk.gpx
             - MCTK-90-115-Herentals-Grobbendonk.gpx
         - 9u30_C
             - MCTK-52-55-Zennegat-Shortcut.gpx
