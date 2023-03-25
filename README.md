@@ -1,9 +1,17 @@
 # Folderstructuur
 
-Het MCTK gpx versiebeheersysteem is ontworpen om een overzichtelijke en gestructureerde manier te bieden om ritten te beheren en te plannen. Het bestaat uit twee hoofdfolders:
+De folderstructuur van MCTK's gpx-versiebeheersysteem is ontworpen om een overzichtelijke en gestructureerde manier te bieden om ritten te beheren en te plannen:
 
-- `_kalender`: bevat de planning van de ritten 
-- `gpx_winkeltje`: bevat alle MCTK-gpx bestanden
+- `_kalender`: bevat de planning van de ritten met  jaar/maand/dag/vertrekuur_groep/gpx-file(s) : 
+    - 2023/03_mar/26/
+        - 9u00_A_B
+            - MCTK-63-259-tielt-winge-gijmel.gpx
+            - MCTK-90-115-Herentals-Grobbendonk.gpx
+        - 9u30_C
+            - MCTK-52-55-Zennegat-Shortcut.gpx
+            - MCTK-64-62-Zennegat.gpx
+        
+- `gpx_winkeltje`: Het gpx_winkeltje is onze MCTK-bibliotheek van gpx-bestanden. Het bevat alle gpx-bestanden die we als MCTK verzameld hebben en is een handige bron voor het plannen van nieuwe ritten.
 
 
 # Gpx naamgeving
