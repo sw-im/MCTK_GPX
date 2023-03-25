@@ -1,3 +1,11 @@
+# Folderstructuur
+
+Het MCTK gpx versiebeheersysteem is ontworpen om een overzichtelijke en gestructureerde manier te bieden om ritten te beheren en te plannen. Het bestaat uit twee hoofdfolders:
+
+- `_kalender`: bevat de planning van de ritten 
+- `gpx_winkeltje`: bevat alle MCTK-gpx bestanden
+
+
 # Gpx naamgeving
 ## Doel
 De bestandsnamen van routes binnen onze wielerclub hebben als doel om:
@@ -37,3 +45,4 @@ is een rit van 90 km en +/- 115 hoogtemeters in de richting van Herentals-Grobbe
 
 Dit geeft een duidelijk omschrijving van de te verwachten rit.
 Niet alle fietscomputers zullen de volledige breedte kunnen tonen, maar met het meest unieke deel in het begin van de naamgeving zou dit moeten volstaan voor selectie ervan.
+
