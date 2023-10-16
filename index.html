@@ -13,7 +13,7 @@
         // script.js
 
         // Fetch the list of files from your local repository
-        fetch('gpx_winkeltje')
+        fetch('https://sw-im.github.io/MCTK_GPX/gpx_winkeltje/')
             .then(response => response.text())
             .then(data => {
                 const files = data.split('\n').filter(Boolean); // Split by newline and remove empty lines
